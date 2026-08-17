@@ -1,6 +1,6 @@
 ## About Me
 
-Junior Data Scientist focused on building problem-solving tools with AI — generative models, agents, and practical automation over pure experimentation.
+Junior Data Scientist focused on building problem-solving tools with AI - generative models, agents, and practical automation over pure experimentation.
 
 <details>
 <summary><strong>Currently exploring</strong></summary>
