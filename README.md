@@ -1,5 +1,31 @@
-# 💫 About Me:
-## About Me<br><br>Junior Data Scientist focused on building problem-solving tools with AI — generative models, agents, and practical automation over pure experimentation.<br><br><details><br><summary><strong>Currently exploring</strong></summary><br><br><br><br>- Generative AI applications and prompt-driven systems<br>- Agentic workflows using LangChain and LLM orchestration<br>- Retrieval-augmented generation (RAG) for real-world tools<br>- Applying core data science skills to AI-powered products<br><br></details><br><br><br><br><br>**Stack**<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)<br>![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)<br>![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)<br>![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)<br>![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)<br><br>**Connect**<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-soni-m23)<br>[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/gaurav_soni95)<br>[![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/gauravsojizz)
+## About Me
+
+Junior Data Scientist focused on building problem-solving tools with AI — generative models, agents, and practical automation over pure experimentation.
+
+<details>
+<summary><strong>Currently exploring</strong></summary>
+
+- Generative AI applications and prompt-driven systems
+- Agentic workflows using LangChain and LLM orchestration
+- Retrieval-augmented generation (RAG) for real-world tools
+- Applying core data science skills to AI-powered products
+
+</details>
+
+**Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-soni-m23)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/gaurav_soni95)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/gauravsojizz)
 
 
 ## 🌐 Socials:
